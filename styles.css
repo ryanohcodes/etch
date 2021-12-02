@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    width: 352px;
+    height: 352px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.box{
+    width: 20px;
+    height: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.filler{
+    background-color: gray;
+}
